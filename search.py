@@ -1,7 +1,7 @@
 import tweepy,sys,jsonpickle
 
-consumer_key = 'zY8KjU12mPv56hi9QGbOCBNY7'
-consumer_secret = 'UdZmTvXNbW32Ez7Xh43y2sC1bUHz83vco5w2mZ16UYTf2ZAMl7'
+consumer_key = 'Ini di isi ges'
+consumer_secret = 'Ini disi juga ya gess'
 
 qry='dodit mulyanto' #query yang akan di cari
 maxTweets =  500# Isi sembarang nilai sesuai kebutuhan anda
